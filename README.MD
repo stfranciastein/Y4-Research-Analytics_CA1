@@ -1,7 +1,7 @@
 # CA1 – Data Analytics for Business
 **DL836 Y4 – Research & Analytics** · Scenario: **Marketing Director**
 
-This repository contains the code for **Task 1 (Retail Performance Analytics)** and **Task 2 (Recommendation System Development)**. Tasks 3 and 4 are submitted separately as a single report via Hub (Turnitin).
+This repository has my mode for task 1 and 2. The following tables below are AI generated.
 
 ## Repository structure
 
