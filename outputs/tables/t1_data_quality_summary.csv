@@ -1,0 +1,8 @@
+Check,Result
+Rows loaded,5100
+Exact duplicates removed,100
+Rows after de-duplication,5000
+Missing cells (original),1418
+Extreme MarketingSpend values re-coded as missing,44
+Missing cells after imputation,0
+Categorical inconsistencies,None – Region/StoreType/Season are clean
